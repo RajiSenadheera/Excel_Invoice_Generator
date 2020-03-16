@@ -1,2 +1,0 @@
-## Excel Invoice Generator
-
